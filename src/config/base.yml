@@ -1,0 +1,14 @@
+server:
+  port: 8848
+
+# 数据源配置
+datasource:
+  driverName: mysql
+  host: 127.0.0.1
+  port: "3306"
+  dbname: gin_temp
+  username: root
+  password: root123
+  charset: utf8
+  sslmode: disable
+  loc: Asia/Shanghai

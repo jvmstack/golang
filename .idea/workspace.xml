@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2172f907-1f8d-4096-aa42-0ebb762831f9" name="Default Changelist" comment="" />
+    <list default="true" id="2172f907-1f8d-4096-aa42-0ebb762831f9" name="Default Changelist" comment="README.md说明文件">
+      <change afterPath="$PROJECT_DIR$/src/common/constant/constant.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/database/common_table_colume.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/database/database.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/base.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/entity/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/query/user_query.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/vo/user_vo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/user_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/user_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/constant/result_code.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/constant/result_code.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/user_controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/user_controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +31,18 @@
     </option>
   </component>
   <component name="GOROOT" url="file://D:/softWare/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/README.md" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1ox71d36wq5IxDh7BzWHAlKyRCx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,10 +53,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\goCode\gin_template\src\common\database" />
       <recent name="E:\goCode\gin_template\src\common\constant" />
       <recent name="E:\goCode\gin_template\src" />
     </key>
@@ -56,6 +81,22 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Gin框架搭建Golang接口项目" />
+    <MESSAGE value="README.md说明文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md说明文件" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
